@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bonjour,bienvenue sur ma page GitHub,<br>je travaille sur divers projets informatique.<br>Je suis actuellement en BTS SIO , en pRemière<br>année à l'ORT Montreuil.
+Bonjour,bienvenue sur ma page GitHub,<br>je travaille sur divers projets informatique.<br>Je suis actuellement en BTS SIO , en première<br>année à l'ORT Montreuil.J'apprends divers languages,décrit plus bas.
 
 
 # 💻 Tech Stack:
