@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenue sur ma page GitHub...<br>Je suis informaticien dans la branche de  developpement d'application.<br>Actuellement je suis étudiant en seconde<br>année du BTS SIO à l'ORT Montreuil,formation de technicien qui consiste à faire de l'étudiant un professionnel maitrisant langages et outils informatique.Je travaille avec les langages php et java et leur frameworks Symfony et Hibernate mais également en base de données (SQL) tout en apprenant l'aspect de la cybersécurité dans le but d'etre en mesure de satisfaire une demande d'un quelconque client qui consisterait à  developper ,  à maitenir et à sécuriser une ou plusieurs applications.
+Bienvenue sur ma page GitHub...<br>Je suis informaticien dans la branche de  developpement d'application.Actuellement je suis étudiant en seconde<br>année du BTS SIO à l'ORT Montreuil,formation de technicien qui consiste à faire de l'étudiant un professionnel maitrisant langages et outils informatique.Je travaille avec les langages php et java et leur frameworks Symfony et Hibernate mais également en base de données (SQL) tout en apprenant l'aspect de la cybersécurité dans le but d'etre en mesure de satisfaire une demande d'un quelconque client qui consisterait à  developper , à maitenir et à sécuriser une ou plusieurs applications.
 
 
 # 💻 Tech Stack:
